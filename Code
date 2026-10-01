@@ -48,7 +48,7 @@ for i in range(4):
     else:
         overall = "Needs Improvement"
 
-    print("\n-----------------------------")
+    print("\n")
     print("Player", i + 1)
     print("Strike Rate :", round(strike_rate, 2))
     print("Economy Rate:", round(economy, 2))
